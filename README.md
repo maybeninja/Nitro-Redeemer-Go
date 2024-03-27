@@ -27,3 +27,5 @@ hcoptcha is currently the best undetcted solver for discord so we recommend usin
 i found this file on my pc made long time ago 
 
 use at ur own risk
+
+Donate - LPCD66jDNxGcHZqD1Y4C9vCcFbbVKR8QAM
